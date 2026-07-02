@@ -24,7 +24,7 @@ A professional promotional website for AI-Solutions, a fictional next-generation
 
 ## Default Admin Login
 - Username: `admin`
-- Password: `Admin@1234`
+- Password: `Admin@123`
 *(Change this password immediately after first login)*
 
 ## Author
