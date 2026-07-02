@@ -20,7 +20,7 @@ A professional promotional website for AI-Solutions, a fictional next-generation
 1. Install XAMPP (Apache + MySQL).
 2. Copy the project folder into `xampp/htdocs/`.
 3. Import `database.sql` into phpMyAdmin (create a database named `ai_solutions_db` first).
-4. Access at: `http://127.0.0.1:8080/ai-solutions/index.php`
+4. Access at: `http://127.0.0.1:8080/index.php'
 
 ## Default Admin Login
 - Username: `admin`
