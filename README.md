@@ -29,7 +29,7 @@ A professional promotional website for AI-Solutions, a fictional next-generation
 
 ## Default Admin Login
 - **Username:** `admin`
-- **Password:** `Admin@1234`
+- **Password:** `Admin@123`
 
 ## Default Admin Login
 - Username: `admin`
