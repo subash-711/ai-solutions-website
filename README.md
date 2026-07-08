@@ -17,10 +17,19 @@ A professional promotional website for AI-Solutions, a fictional next-generation
 - Dark mode toggle
 
 ## How to Run Locally
-1. Install XAMPP (Apache + MySQL).
-2. Copy the project folder into `xampp/htdocs/`.
-3. Import `database.sql` into phpMyAdmin (create a database named `ai_solutions_db` first).
-4. Access at: http://localhost/ai-solutions/index.php
+
+1. Install XAMPP (Apache + MySQL) from https://www.apachefriends.org.
+2. Open XAMPP Control Panel and start Apache and MySQL.
+3. **Important:** Configure XAMPP to use port 8080 (edit `httpd.conf` and change `Listen 80` to `Listen 8080`).
+4. Copy the entire `ai-solutions-website` folder into your XAMPP `htdocs` folder.
+5. Open phpMyAdmin at `http://localhost:8080/phpmyadmin` and create a new database named `ai_solutions_db`.
+6. Import the `database.sql` file into that database.
+7. Open your browser and go to:
+   `http://127.0.0.1:8080/ai-solutions/index.php`
+
+## Default Admin Login
+- **Username:** `admin`
+- **Password:** `Admin@1234`
 
 ## Default Admin Login
 - Username: `admin`
