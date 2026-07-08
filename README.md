@@ -27,9 +27,6 @@ A professional promotional website for AI-Solutions, a fictional next-generation
 7. Open your browser and go to:
    `http://127.0.0.1:8080/ai-solutions/index.php`
 
-## Default Admin Login
-- **Username:** `admin`
-- **Password:** `Admin@123`
 
 ## Default Admin Login
 - Username: `admin`
